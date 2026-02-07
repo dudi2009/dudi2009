@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dudi</h1>
 
-###
+
 
 <p align="center">Front End Developer</p>
 
-###
+
 
 <h2 align="left">About me</h2>
 
@@ -12,7 +12,6 @@
 
 <p align="left">🎯 Goals: Lebih jago<br>🎲 Fun fact: Vibe coding</p>
 
-###
 
 <h2 align="left">I code with</h2>
 
