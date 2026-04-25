@@ -13,7 +13,7 @@
 <p align="left">🎯 Goals: Lebih jago<br>🎲 Fun fact: Vibe coding</p>
 
 
-<h2 align="left">I code with</h2>
+<h2 align="left">sek iso tak nggo</h2>
 
 ###
 
