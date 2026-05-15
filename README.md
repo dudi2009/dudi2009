@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-###
+
 
 <p align="left">🎯 Goals: Lebih jago<br>🎲 Fun fact: Vibe coding</p>
 
@@ -31,9 +31,9 @@
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-</div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 
 ###
 
 
-###
